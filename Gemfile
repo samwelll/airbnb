@@ -17,6 +17,8 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'devise-i18n'
 gem 'paperclip'
+gem 'toastr-rails'
+gem 'rails-i18n'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
